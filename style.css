@@ -1,0 +1,89 @@
+*
+{
+    margin: 0;
+    font-family: sans-serif;
+}
+.cel-1
+{
+    width: 90%;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    gap: 70px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.phome{
+    font-size: 20px;
+    height: 30px;
+    border-bottom: 3px solid rgb(24, 30, 214);
+    color: rgb(24, 30, 214);
+}
+.ser
+{
+    font-size: 20px;
+    height: 30px;
+    color: gray;
+    padding: 3px;
+}
+.btn
+{
+    width: 120px;
+    height: 40px;
+    background-color:rgb(24, 30, 214) ;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-size: 18px;
+}
+.cel-2
+{
+    width: 90%;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.left
+{
+    width: 40%;
+    height: 600px;
+
+}
+.left h1{
+    font-size: 45px;
+    line-height: 60px;
+}
+.left span
+{
+    font-size: 50px;
+    color:rgb(24, 30, 214) ;
+}
+.left p{
+    margin-top: 20px;
+    font-size: 20px;
+    line-height: 30px;
+    color: gray;
+}
+.bt
+{
+    margin-top: 30px;
+    width: 120px;
+    height: 40px;
+    background-color:rgb(24, 30, 214) ;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-size: 18px;
+}
+.right
+{
+    width:50%;
+    height: 600px;
+    background-color: red;
+}
+.img1
+{
+    position: relative;
+    bottom: 100px;
+}
