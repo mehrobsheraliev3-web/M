@@ -11,7 +11,7 @@
     display: flex;
     gap: 70px;
     margin-top: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 80px;
 }
 .phome{
     font-size: 20px;
@@ -39,7 +39,7 @@
 .cel-2
 {
     width: 90%;
-    height: 600px;
+    height: 400px;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -125,4 +125,68 @@
     position: absolute;
     left: 530px;   
     bottom: 280px; 
+}
+
+.cont3{
+    width:100%;
+    margin-top:50px;
+}
+
+.txt3{
+    text-align:center;
+    font-size:50px;
+    font-weight:700;
+    color:#1b1b3f;
+}
+
+.txt4{
+    text-align:center;
+    color:gray;
+    font-size:20px;
+    margin-top:20px;
+    line-height:35px;
+}
+
+.box6{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:40px;
+}
+
+.card1{
+    width:280px;
+    height:320px;
+    background:#a6d7df90;
+    border-radius:15px;
+    text-align:center;
+    padding-top:40px;
+}
+
+.card2{
+    width:280px;
+    height:320px;
+    text-align:center;
+    padding-top:40px;
+}
+
+.cir1{
+    width:90px;
+    height:90px;
+    background:#36d4ff;
+    border-radius:50%;
+    margin:auto;
+}
+
+.txt5{
+    margin-top:40px;
+    font-size:30px;
+    font-weight:600;
+    color:#1b1b3f;
+}
+
+.txt6{
+    margin-top:20px;
+    color:gray;
+    font-size:18px;
+    line-height:30px;
 }
